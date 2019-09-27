@@ -9,7 +9,7 @@
 # 个人信息
 
  - 张光辉/男/1993 
- - 本科/潍坊科技学院/计算机科学与技术 
+ - 本科/潍坊科技学院(2012 ~ 2016)/计算机科学与技术 
  - 工作年限：3年
  - 简书： http://www.jianshu.com/u/653369372474
  - Github：https://github.com/fuyunzhishang
