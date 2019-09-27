@@ -15,7 +15,7 @@
  - Github：https://github.com/fuyunzhishang
  - 博客： www.splendorzhang.com
  - 期望职位：Web前端工程师/全栈开发
- - 期望薪资：税前月薪17k~18k
+ - 期望薪资：面议
  - 期望城市：杭州
 
 ---
