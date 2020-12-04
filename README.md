@@ -72,7 +72,7 @@
 
 7、能够对业务场景进行数据建模，会使用MySQL、Oracle、MongoDB等关系型和NoSQL数据库
 
-8、掌握常用Linux命令，对基于Docker的持续集成有过研究
+8、掌握常用Linux命令，对基于Docker的持续集成有过研究，熟悉k8s、私有云
 
 ---
 
